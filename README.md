@@ -1,6 +1,6 @@
 # Introduction-to-Python
 In this repository you will find the introduction to Python and the related packages to Machine learning.</br>
-The material of these folder are prepare for the Pattern Recognition course in University of Tehran.
+The material of these folders are prepare for the Pattern Recognition course in University of Tehran.
 
 # **By reading these tutorials you will be familar with**
 - ### Introduction to Python</br>
