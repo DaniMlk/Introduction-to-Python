@@ -4,10 +4,10 @@ The material of these folder are prepare for the Pattern Recognition course in U
 
 # **By reading these tutorials you will be familar with**
 - ### Introduction to Python</br>
-  ##### how to install Python
-  ##### how to install Anaconda
-  ##### IDEs for Python
-  ##### Introduction to Python and Python syntax
-### - Introduction to Numpy Package
-### - Introduction to Matplotlib Package
-### - Introduciton to Scikit-learn and Pandas Packages
+  - ##### how to install Python
+  - ##### how to install Anaconda
+  - ##### IDEs for Python
+  - ##### Introduction to Python and Python syntax
+- ### Introduction to Numpy Package
+- ### Introduction to Matplotlib Package
+- ### Introduciton to Scikit-learn and Pandas Packages
